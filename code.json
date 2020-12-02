@@ -1,0 +1,54 @@
+{
+  "Print to jsNoteTitle": {
+    "prefix": "jsmd",
+    "body": [
+      "/*",
+      " *@author: lixiaorui",
+      " *@date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND}",
+      " *@description:",
+      "*/"
+    ],
+    "description": ""
+  },
+  "Print to jsfn": {
+    "prefix": "jsfn",
+    "body": [
+      "/*",
+      " *@author: lixiaorui",
+      " *@date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND}",
+      " *@params1: ${1:参数1}",
+      " *@description:",
+      " *@returns : result",
+      "*/"
+    ],
+    "description": ""
+  },
+  "Print to jsModify": {
+    "prefix": "jscom",
+    "body": [
+      "/*",
+      " *@author: lixiaorui",
+      " *@description:",
+      " *@modifyContent:",
+      " *@date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND}",
+      "*/"
+    ],
+    "description": ""
+  },
+  "Print to jsVariable": {
+    "prefix": "jsVariable",
+    "body": [
+      "/*",
+      " *@author: lixiaorui",
+      " *@date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND}",
+      " *@description:",
+      " *@variable1: ${1:变量1}",
+      " *@variable2: ${2:变量2}",
+      " *@variable3: ${3:变量3}",
+      " *@variable4: ${4:变量4}",
+      " *@variable5: ${5:变量5}",
+      "*/"
+    ],
+    "description": ""
+  }
+}
